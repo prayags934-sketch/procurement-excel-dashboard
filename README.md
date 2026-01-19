@@ -35,6 +35,6 @@ Raw Data → Clean Data → Helper Columns → Analysis → Dashboard → Insigh
 - Built an interactive dashboard with KPIs and slicers
 - Designed visuals to support business reporting and decision-making
 - Tools: Power BI, basic DAX  
-🔗 [View Dashboard](PASTE_POWERBI_LINK_OR_GITHUB_REPO_HERE)
+🔗 [View Dashboard](https://github.com/prayags934-sketch/powerbi-business-dashboard)
 
 
